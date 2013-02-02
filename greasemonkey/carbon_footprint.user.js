@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Carbon Footprint - eBay Hackathon
 // @description   Calculate the carbon footprint of your delivery
-// @include       http://www.ebay.com/itm/*
+// @include       http://www.ebay.*/itm/*
 // @require       http://code.jquery.com/jquery-1.9.0.js
 // @grant       none
 // ==/UserScript==
